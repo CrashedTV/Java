@@ -1,6 +1,6 @@
 public class DigitSumChallenge {
     public static void main(String[] args) {
-        int number = 987;
+        int number = 123456789;
         System.out.println("The sum of " + number + " is " + sumDigits(number));
     }
     public static int sumDigits(int number){
