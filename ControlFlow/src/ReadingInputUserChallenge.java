@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RedingInputUserChalloenge {
+public class ReadingInputUserChallenge {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int count = 1;
