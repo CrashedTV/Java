@@ -10,7 +10,7 @@ class Customer{
     }
 
     public Customer(String name, String email) {
-        this(name,email,34000);
+        this(name,email,4000);
     }
 
     public Customer(){
